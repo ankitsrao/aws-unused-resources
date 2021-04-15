@@ -10,7 +10,7 @@ Get the details of unused resources present across regions in the AWS account
 ## Pre-requisites
 - Workstation with Python version 3 and above
 - AWS python-based SDK: boto3
-  Installation command: pip3 install boto3
+  - Installation command: pip3 install boto3
 - pandas framework and openpyxl for reporting operations (xlsx file). 
   Installation command(s): 
   - pip3 install pandas

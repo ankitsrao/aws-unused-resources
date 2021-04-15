@@ -7,6 +7,19 @@ Get the details of unused resources present across regions in the AWS account
 - This script provides a detailed overview of the number of unused resources present in the AWS account.
 - It provides service-wise details of unused resources lying around in all the regions of the AWS account. 
 
+## Service Covergae
+Currently, the script supports below AWS services :
+- AWS::EC2::Volume
+- AWS::EC2::EIP
+- AWS::EC2::NetworkInterface
+- AWS::EC2::VPC
+- AWS::EC2::Subnet
+- AWS::EC2::SecurityGroup
+- AWS::ElasticLoadBalancing::LoadBalancer
+- AWS::ElasticLoadBalancingV2::LoadBalancer
+- AWS::IAM::User
+- AWS::IAM::Group
+
 ## Pre-requisites
 - Workstation with Python version 3 and above
 - AWS python-based SDK: boto3

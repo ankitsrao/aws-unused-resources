@@ -33,7 +33,7 @@ Currently, the script supports below AWS services :
 ## Example
 - This script can be executed on a python compiler (AWS Cloudshell, Powershell, bash, any command line tool with python installed)
 - Command: 
-    - python ./unused_aws_resources.py --accessKey <AWS Access Key Id> --secretKey <AWS Secret Access Key>
+    - python ./unused_aws_resources.py --accessKey &lt;AWS Access Key Id&gt; --secretKey &lt;AWS Secret Access Key&gt;
 
 ## Output
 - The script will provide a summarized count of all unused resources in the account.

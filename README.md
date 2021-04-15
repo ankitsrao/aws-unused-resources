@@ -7,7 +7,7 @@ Get the details of unused resources present across regions in the AWS account
 - This script provides a detailed overview of the number of unused resources present in the AWS account.
 - It provides service-wise details of unused resources lying around in all the regions of the AWS account. 
 
-## Service Covergae
+## Service Coverage
 Currently, the script supports below AWS services :
 - AWS::EC2::Volume
 - AWS::EC2::EIP

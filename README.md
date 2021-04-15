@@ -1,4 +1,4 @@
-# AWS Unsued Resources
+# AWS Unused Resources
 
 ## Overview
 Get the details of unused resources present across regions in the AWS account
